@@ -1,0 +1,504 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{d2021acceleration}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{3}{}{%
+      {{hash=dA}{%
+         family={d’Aspremont},
+         familyi={d\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Scieur},
+         familyi={S\bibinitperiod},
+         given={Damien},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Adrien},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Now Publishers, Inc.}%
+    }
+    \strng{namehash}{dASDTA+1}
+    \strng{fullhash}{dASDTA+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1-2}
+    \field{pages}{1\bibrangedash 245}
+    \field{title}{Acceleration methods}
+    \field{volume}{5}
+    \field{journaltitle}{Foundations and Trends in Optimization}
+    \field{year}{2021}
+  \endentry
+
+  \entry{ghadimi2015global}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GE}{%
+         family={Ghadimi},
+         familyi={G\bibinitperiod},
+         given={Euhanna},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=FHR}{%
+         family={Feyzmahdavian},
+         familyi={F\bibinitperiod},
+         given={Hamid\bibnamedelima Reza},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Johansson},
+         familyi={J\bibinitperiod},
+         given={Mikael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{GEFHRJM1}
+    \strng{fullhash}{GEFHRJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{2015 European control conference (ECC)}
+    \field{pages}{310\bibrangedash 315}
+    \field{title}{Global convergence of the heavy-ball method for convex
+  optimization}
+    \field{year}{2015}
+  \endentry
+
+  \entry{giselsson2014monotonicity}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=GP}{%
+         family={Giselsson},
+         familyi={G\bibinitperiod},
+         given={Pontus},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Boyd},
+         familyi={B\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{GPBS1}
+    \strng{fullhash}{GPBS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{53rd IEEE Conference on Decision and Control}
+    \field{pages}{5058\bibrangedash 5063}
+    \field{title}{Monotonicity and restart in fast gradient methods}
+    \field{year}{2014}
+  \endentry
+
+  \entry{goh2017why}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GG}{%
+         family={Goh},
+         familyi={G\bibinitperiod},
+         given={Gabriel},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GG1}
+    \strng{fullhash}{GG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.23915/distill.00006
+    \endverb
+    \field{title}{Why Momentum Really Works}
+    \verb{url}
+    \verb http://distill.pub/2017/momentum
+    \endverb
+    \field{journaltitle}{Distill}
+    \field{year}{2017}
+  \endentry
+
+  \entry{gorbunov2022recent}{incollection}{}
+    \name{author}{5}{}{%
+      {{hash=GE}{%
+         family={Gorbunov},
+         familyi={G\bibinitperiod},
+         given={Eduard},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rogozin},
+         familyi={R\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Beznosikov},
+         familyi={B\bibinitperiod},
+         given={Aleksandr},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Dvinskikh},
+         familyi={D\bibinitperiod},
+         given={Darina},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gasnikov},
+         familyi={G\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{GERABADDGA1}
+    \strng{fullhash}{GERABADDGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{High-Dimensional Optimization and Probability: With a
+  View Towards Data Science}
+    \field{pages}{253\bibrangedash 325}
+    \field{title}{Recent theoretical advances in decentralized distributed
+  convex optimization}
+    \field{year}{2022}
+  \endentry
+
+  \entry{hammarling1982numerical}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HSJ}{%
+         family={Hammarling},
+         familyi={H\bibinitperiod},
+         given={Sven\bibnamedelima J},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{HSJ1}
+    \strng{fullhash}{HSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{3}
+    \field{pages}{303\bibrangedash 323}
+    \field{title}{Numerical solution of the stable, non-negative definite
+  lyapunov equation}
+    \field{volume}{2}
+    \field{journaltitle}{IMA Journal of Numerical Analysis}
+    \field{year}{1982}
+  \endentry
+
+  \entry{leplat2022nag}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LV}{%
+         family={Leplat},
+         familyi={L\bibinitperiod},
+         given={Valentin},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Merkulov},
+         familyi={M\bibinitperiod},
+         given={Daniil},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Katrutsa},
+         familyi={K\bibinitperiod},
+         given={Aleksandr},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bershatsky},
+         familyi={B\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=OI}{%
+         family={Oseledets},
+         familyi={O\bibinitperiod},
+         given={Ivan},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LVMDKABDOI1}
+    \strng{fullhash}{LVMDKABDOI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{NAG-GS: semi-implicit, accelerated and robust stochastic
+  optimizer.}
+    \field{year}{2022}
+  \endentry
+
+  \entry{nesterov1983method}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=NY}{%
+         family={Nesterov},
+         familyi={N\bibinitperiod},
+         given={Yurii},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Russian Academy of Sciences}%
+    }
+    \strng{namehash}{NY1}
+    \strng{fullhash}{NY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{booktitle}{Doklady Akademii Nauk}
+    \field{number}{3}
+    \field{pages}{543\bibrangedash 547}
+    \field{title}{A method of solving a convex programming problem with
+  convergence rate $\mathcal{O}\left( 1/k^2\right)$}
+    \field{volume}{269}
+    \field{year}{1983}
+  \endentry
+
+  \entry{nesterov2003introductory}{book}{}
+    \name{author}{1}{}{%
+      {{hash=NY}{%
+         family={Nesterov},
+         familyi={N\bibinitperiod},
+         given={Yurii},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science \& Business Media}%
+    }
+    \strng{namehash}{NY1}
+    \strng{fullhash}{NY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Introductory lectures on convex optimization: A basic course}
+    \field{volume}{87}
+    \field{year}{2003}
+  \endentry
+
+  \entry{nesterov2018lectures}{book}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{1}{}{%
+      {{hash=NY}{%
+         family={Nesterov},
+         familyi={N\bibinitperiod},
+         given={Yurii},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{NY+1}
+    \strng{fullhash}{NY+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Lectures on convex optimization}
+    \field{volume}{137}
+  \endentry
+
+  \entry{polyak1987introduction}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PBT}{%
+         family={Polyak},
+         familyi={P\bibinitperiod},
+         given={Boris\bibnamedelima T},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PBT1}
+    \strng{fullhash}{PBT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{pages}{32}
+    \field{title}{Introduction to optimization. Optimization software}
+    \field{volume}{1}
+    \field{journaltitle}{Inc., Publications Division, New York}
+    \field{year}{1987}
+  \endentry
+
+  \entry{polyak1964some}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PBT}{%
+         family={Polyak},
+         familyi={P\bibinitperiod},
+         given={Boris\bibnamedelima T},
+         giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{PBT1}
+    \strng{fullhash}{PBT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{5}
+    \field{pages}{1\bibrangedash 17}
+    \field{title}{Some methods of speeding up the convergence of iteration
+  methods}
+    \field{volume}{4}
+    \field{journaltitle}{Ussr computational mathematics and mathematical
+  physics}
+    \field{year}{1964}
+  \endentry
+
+  \entry{taylor2018lyapunov}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=TA}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Adrien},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VSB}{%
+         family={Van\bibnamedelima Scoy},
+         familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Bryan},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Lessard},
+         familyi={L\bibinitperiod},
+         given={Laurent},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {PMLR}%
+    }
+    \strng{namehash}{TAVSBLL1}
+    \strng{fullhash}{TAVSBLL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{booktitle}{International Conference on Machine Learning}
+    \field{pages}{4897\bibrangedash 4906}
+    \field{title}{Lyapunov functions for first-order methods: Tight automated
+  convergence guarantees}
+    \field{year}{2018}
+  \endentry
+
+  \entry{van2017fastest}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VSB}{%
+         family={Van\bibnamedelima Scoy},
+         familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Bryan},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=FRA}{%
+         family={Freeman},
+         familyi={F\bibinitperiod},
+         given={Randy\bibnamedelima A},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LKM}{%
+         family={Lynch},
+         familyi={L\bibinitperiod},
+         given={Kevin\bibnamedelima M},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{VSBFRALKM1}
+    \strng{fullhash}{VSBFRALKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{1}
+    \field{pages}{49\bibrangedash 54}
+    \field{title}{The fastest known globally convergent first-order method for
+  minimizing strongly convex functions}
+    \field{volume}{2}
+    \field{journaltitle}{IEEE Control Systems Letters}
+    \field{year}{2017}
+  \endentry
+
+  \entry{vorontsova2021convex}{book}{}
+    \name{author}{1}{}{%
+      {{hash=��������}{%
+         family={Стонякин},
+         familyi={�\bibinitperiod},
+         given={Евгения Воронцова {,} Роланд
+  Хильдебранд {,} Александр Гасников
+  {,}\bibnamedelima Фёдор},
+         giveni={�\bibinitperiod\bibinitdelim �\bibinitperiod\bibinitdelim
+  \bibinitperiod\bibinitdelim �\bibinitperiod\bibinitdelim
+  �\bibinitperiod\bibinitdelim \bibinitperiod\bibinitdelim
+  �\bibinitperiod\bibinitdelim �\bibinitperiod\bibinitdelim
+  \bibinitperiod\bibinitdelim �\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIPT}%
+    }
+    \strng{namehash}{��������1}
+    \strng{fullhash}{��������1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{�}
+    \field{sortinithash}{�}
+    \field{isbn}{978-5-7417-0776-0}
+    \field{title}{Выпуклая оптимизация}
+    \field{volume}{364}
+    \field{year}{2021}
+  \endentry
+\enddatalist
+\endinput
